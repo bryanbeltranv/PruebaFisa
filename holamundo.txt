@@ -1,2 +1,3 @@
 hola esto es una prueba
 Parche del la funcionalidad 1
+Parche funcionalidad 2
